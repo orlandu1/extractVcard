@@ -1,62 +1,65 @@
 BEGIN:VCARD
-VERSION:2.1
-N:;JoãoSilva;;;
+VERSION:3.0
 FN:João Silva
-TEL;CELL:998765432
+N:Silva;João;;;
+ORG:Empresa X
+TEL:+55 11 98765-4321
+EMAIL:joao.silva@empresa-x.com.br
+ADR:;;Rua Fictícia, 123;São Paulo;SP;01234-567;Brasil
+URL:https://www.empresa-x.com.br
 END:VCARD
 
 BEGIN:VCARD
-VERSION:2.1
-N:;MariaPereira;;;
-FN:Maria Pereira
-TEL;CELL:619876543
+VERSION:3.0
+FN:Maria Oliveira
+N:Oliveira;Maria;;;
+ORG:Startup Y
+TEL:+55 21 99876-5432
+EMAIL:maria.oliveira@startupy.com
+ADR:;;Avenida Imaginação, 456;Rio de Janeiro;RJ;12345-678;Brasil
+URL:https://www.startupy.com
 END:VCARD
 
 BEGIN:VCARD
-VERSION:2.1
-N;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:;=55=52=42=49=C3=94=4E=49=42=55=53;;;
-FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=55=52=42=49=C3=94=4E=49=42=55=53
-TEL;CELL:998811223
+VERSION:3.0
+FN:Carlos Pereira
+N:Pereira;Carlos;;;
+ORG:Consultoria Z
+TEL:+55 31 99876-1234
+EMAIL:carlos.pereira@consultoriaz.com
+ADR:;;Rua Inventada, 789;Belo Horizonte;MG;78965-432;Brasil
+URL:https://www.consultoriaz.com
 END:VCARD
 
 BEGIN:VCARD
-VERSION:2.1
-N:;CarlosRodrigues;;;
-FN:Carlos Rodrigues
-TEL;CELL:619988776
+VERSION:3.0
+FN:Laura Costa
+N:Costa;Laura;;;
+ORG:Empresa W
+TEL:+55 61 99123-4567
+EMAIL:laura.costa@empresaw.com.br
+ADR:;;Quadra X, Lote 123;Brasília;DF;70000-000;Brasil
+URL:https://www.empresaw.com.br
 END:VCARD
 
 BEGIN:VCARD
-VERSION:2.1
-N:;PaulaOliveira;;;
-FN:Paula Oliveira
-TEL;CELL:619993344
+VERSION:3.0
+FN:Roberto Almeida
+N:Almeida;Roberto;;;
+ORG:Tech Solutions
+TEL:+55 41 96372-8362
+EMAIL:roberto.almeida@techsolutions.com.br
+ADR:;;Rua Criativa, 321;Curitiba;PR;80000-000;Brasil
+URL:https://www.techsolutions.com.br
 END:VCARD
 
 BEGIN:VCARD
-VERSION:2.1
-N:;RafaelAlmeida;;;
-FN:Rafael Almeida
-TEL;CELL:619999888
-END:VCARD
-
-BEGIN:VCARD
-VERSION:2.1
-N:;LucasAlves;;;
-FN:Lucas Alves
-TEL;CELL:616789654
-END:VCARD
-
-BEGIN:VCARD
-VERSION:2.1
-N:;BeatrizCosta;;;
-FN:Beatriz Costa
-TEL;CELL:999123456
-END:VCARD
-
-BEGIN:VCARD
-VERSION:2.1
-N;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:;=55=52=42=49=C3=94=4E=49=42=55=53;;;
-FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=55=52=42=49=C3=94=4E=49=42=55=53
-TEL;CELL:618765432
+VERSION:3.0
+FN:Fernanda Souza
+N:SOUZA;FERNANDA;;;
+ORG:Agência Criativa
+TEL:+55 51 93458-7623
+EMAIL:fernanda.souza@agenciacriativa.com.br
+ADR:;;Rua da Inovação, 1000;Porto Alegre;RS;90000-000;Brasil
+URL:https://www.agenciacriativa.com.br
 END:VCARD
